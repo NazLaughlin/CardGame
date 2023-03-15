@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Board : MonoBehaviour
 {
-    public void PlaceCard (Card card) {
-    
-    }
+    private Player[] players;
+    private Card[] marketDeck;
+    private Card[] market;
 }
