@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8c4c852582e332b499b15630a0021012
+  m_SerializeEntries:
+  - m_GUID: 6cbb5f616be24874d95edef6946a3630
+    m_Address: Assets/Art/Card Templates/Ability
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 71d90512dbec1ee458d986dbe2b0e1ae
+    m_Address: Assets/Art/Card Templates/Creature
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f52bc6d3eb231a048b013307dfb39e84
+    m_Address: Assets/Art/Card Templates/Resource
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 6dd3ab033c0d1d9448183ec46a65fffa
+    m_Address: Assets/Art/Icons/Energy_Symbol.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: f4369debceb01164682bf547f200dedb
+    m_Address: Assets/Art/Icons/Gold_Symbol.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 4b6aa61889e3cfc4e8c6aaec86432341
+    m_Address: Assets/Art/Icons/Mana_Symbol.png
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 9e66e106a510a8d4dade50a2b8d27427, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d868936e156d2cf40b93f06ad71d7b1e, type: 2}
+    - {fileID: 11400000, guid: 3f4498fe151e92f41b446f29ff2ab28e, type: 2}
